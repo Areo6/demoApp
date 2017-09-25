@@ -1,0 +1,4 @@
+The contexts in which we need version control system are:
+- When we are working in a team and we need every one int he team to contribute to the project. And that is because without a version control it would be possible for each member ont he eam to work on the same project simultaniously.
+- Version control is also needed where team members aren't all in the same physical place. In this case version control alows to work on a project from a remoe place.
+- Version control is also needed in case we are working on a file and we need to keep track of the changes we make over time. This is because sometimes we mess up with our project, but if we have a way to go back to a previous workig version,we would much ease to try out new this in our project without fearing to lose data.
